@@ -1,0 +1,24 @@
+.book-item{
+    border-radius: 5px;
+    border: 3px solid rosybrown;
+    text-align: center;
+    background-color: rgba(161, 158, 158, 0.192);
+    box-shadow: 2px ;
+}
+.book-item img{
+    width: 220px;
+    height: 300px;
+}
+.handle-btn{
+    
+    padding: 10px 20px;
+    color: #fff;
+    background-color: rgb(238, 179, 18);
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.handle-btn:hover{
+    color: #fff;
+    background-color: rgba(34, 129, 31, 0.692);
+}
