@@ -1,0 +1,56 @@
+[
+    {
+        "id": "623e1237d8d088dc8494b361",
+        "price": 167,
+        "picture": "https://img.freepik.com/free-photo/smartwatch-screen-digital-device_53876-97305.jpg?size=626&ext=jpg&ga=GA1.2.599835233.1643014471",
+        "name": "Rolex Q30"
+    },
+    {
+        "id": "623e12376d0ea69049eae6ba",
+        "price": 321,
+        "picture": "https://images.unsplash.com/photo-1549972574-8e3e1ed6a347?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2F0Y2h8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Casio R95"
+    },
+    {
+        "id": "623e123762f49effe4740e68",
+        "price": 254,
+        "picture": "https://media.istockphoto.com/photos/set-of-smart-watches-with-colorful-straps-on-black-background-picture-id1333053202?b=1&k=20&m=1333053202&s=170667a&w=0&h=TV_6Qt85auMvknYEpNuckvNRYMxid6x0yWk7G1jy-GQ=",
+        "name": "Apple Mode-3"
+    },
+    {
+        "id": "623e1237bc4688a63acea266",
+        "price": 383,
+        "picture": "https://media.istockphoto.com/photos/smart-watch-on-white-background-picture-id1301004355?k=20&m=1301004355&s=612x612&w=0&h=6H71IqyjH9X-J54riQ9VTFdx3ArtdHCOTBWSy6EhoA8=",
+        "name": "Apple-5"
+    },
+    {
+        "id": "623e1237ad33ea1565362c08",
+        "price": 151,
+        "picture": "https://media.istockphoto.com/photos/white-smart-watch-isolated-picture-id685003650?k=20&m=685003650&s=612x612&w=0&h=d6TMnZrlhH376h4PBLJ2H2v0_1kC2BXlM4KvFWrhwXA=",
+        "name": "Garmin Smart Watch"
+    },
+    {
+        "id": "623e1237d9638491594d11c1",
+        "price": 299,
+        "picture": "https://media.istockphoto.com/photos/smartwatch-digital-clock-on-white-picture-id518820558?k=20&m=518820558&s=612x612&w=0&h=ZuzhZRMNP1P0zx-u_cR-sC5GFBVeFS2oX8I7RIUzOHU=",
+        "name": "Samsung Classic"
+    },
+    {
+        "id": "623e12374d72984b39fa4aff",
+        "price": 180,
+        "picture": "https://media.istockphoto.com/photos/smartwatch-picture-id469328286?k=20&m=469328286&s=612x612&w=0&h=vtEyrm6aOlka7JtDOhOVbdP9eRVeoZbJ3HLP-Trmrl8=",
+        "name": "Verizon Smart watch"
+    },
+    {
+        "id": "623e123758c8d82f2708f87a",
+        "price": 22,
+        "picture": "https://media.istockphoto.com/photos/concept-white-smart-watch-with-cloud-of-application-icons-picture-id533497459?k=20&m=533497459&s=612x612&w=0&h=xClw_z3P18vEV6-phwM0N2oplKZPJkhfYcrhzS4_7DM=",
+        "name": "Google Watch"
+    },
+    {
+        "id": "623e123787a1e2e504f7b8f0",
+        "price": 395,
+        "picture": "https://media.istockphoto.com/photos/smart-watch-with-blue-wrist-picture-id486791948?k=20&m=486791948&s=612x612&w=0&h=S8us_1w7zcrKtCJ_VmOLjCVBKpwqD8D6bpvGpZ5EVWU=",
+        "name": "Apple Model-7"
+    }
+]
