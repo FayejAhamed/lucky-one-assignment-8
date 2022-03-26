@@ -6,7 +6,7 @@ import Question from './Component/Question/Question';
 
 function App() {
   return (
-    <div>
+    <div className='main'>
       <Header></Header>
       <Books></Books>
       <Question></Question>

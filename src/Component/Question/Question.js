@@ -2,7 +2,7 @@ import React from 'react';
 
 const Question = () => {
     return (
-        <div style={{ marginTop: '60px', padding: '20pxgit' }}>
+        <div style={{ padding: '20px' }}>
             <h1>Prop vs State</h1>
             <p>1.Props are Read only, state changes can be asynchronous
                 <br />

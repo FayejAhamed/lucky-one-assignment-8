@@ -27,7 +27,7 @@ const Books = () => {
             alert('please select item')
         }
         else {
-            alert('you have selected' + cart[randomNum].name)
+            alert('you have selected   ' + cart[randomNum].name)
         }
         console.log(cart)
     }
@@ -42,7 +42,7 @@ const Books = () => {
                 }
             </div>
             <div className='cart-container'>
-                <h2>Select Your Books</h2>
+                <h2 style={{ textAlign: 'center' }}>Select Your Books</h2>
                 {
                     cart.map(product => <Cart key={product.id} product={product}></Cart>)
 
