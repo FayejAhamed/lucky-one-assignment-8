@@ -22,10 +22,18 @@ const Books = () => {
     }
     const randomName = () => {
         const randomNum = [Math.floor(Math.random() * cart.length)]
-        alert(randomNum)
+        /*     setCart(cart[randomNum]); */
+        if (!cart.length) {
+            alert('please select item')
+        }
+        else {
+            alert('you have selected' + cart[randomNum].name)
+        }
+        console.log(cart)
     }
     return (
         <div className='books-parent'>
+
             <div className='book-container'>
                 {
                     products.map(product => <Book key={product.id} product={product}
@@ -34,10 +42,20 @@ const Books = () => {
                 }
             </div>
             <div className='cart-container'>
+                <h2>Select Your Books</h2>
                 {
-                    <Cart random={randomName} removeItem={removeItem} cart={cart}></Cart>
-                }
+                    cart.map(product => <Cart key={product.id} product={product}></Cart>)
 
+
+                }
+                <div className='btn-container'>
+
+                    <button className='user-btn' onClick={randomName} >Choose one</button>
+                    <br />
+                    <br />
+                    <button className='user-btn' onClick={removeItem}>Clear</button>
+
+                </div>
             </div>
         </div>
     );

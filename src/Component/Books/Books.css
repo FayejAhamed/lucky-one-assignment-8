@@ -8,3 +8,46 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
+.cart_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user-btn{
+    padding: 10px 20px;
+    color: #fff;
+    background-color: rgb(238, 179, 18);
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.user-btn:hover{
+    color: #fff;
+    background-color: rgba(34, 129, 31, 0.692);
+}
+.btn-container{
+    
+    text-align: center;
+}
+
+@media screen and (max-width:480px) {
+    .books-parent{
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-bottom: 50px;
+        
+        
+    }
+    
+    .book-container{
+        width: 100%;
+        display:grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .btn-container{
+        text-align: center;
+        width: 100%;
+        padding: 30px;
+    }
+}
